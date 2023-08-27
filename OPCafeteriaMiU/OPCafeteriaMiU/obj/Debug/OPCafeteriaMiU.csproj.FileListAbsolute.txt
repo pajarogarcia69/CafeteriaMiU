@@ -1,0 +1,9 @@
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\bin\Debug\OPCafeteriaMiU.dll
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\bin\Debug\OPCafeteriaMiU.pdb
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\bin\Debug\RnCafeteriaMiU.dll
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\bin\Debug\RnCafeteriaMiU.pdb
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\obj\Debug\OPCafeteriaMiU.csproj.AssemblyReference.cache
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\obj\Debug\OPCafeteriaMiU.csproj.CoreCompileInputs.cache
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\obj\Debug\OPCafeteriaMiU.csproj.CopyComplete
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\obj\Debug\OPCafeteriaMiU.dll
+C:\Users\XZEUS\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\ITM\Desarrollo De Software\CafeteriaMiU\OPCafeteriaMiU\OPCafeteriaMiU\obj\Debug\OPCafeteriaMiU.pdb
